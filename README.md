@@ -8,6 +8,8 @@ Graduado em ciências contábeis, busco uma mudança de carreira para a área de
 ## 🧠 Conhecimentos
 
 - ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=ffe060)
+- ![JavaScript]([https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=html5&logoColor=e4542d](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square))
+- ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 - ![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=283344)
 - ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=e4542d)
 - ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=316af0)
