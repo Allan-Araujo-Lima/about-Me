@@ -22,7 +22,8 @@ Atualmente busco oportunidades para **colaborar com times, evoluir tecnicamente 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=3c873a)
 ![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs&logoColor=f61f47)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=396c94)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=database&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-000?style=for-the-badge&logo=go&logoColor=75e0fd)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61dafb)
